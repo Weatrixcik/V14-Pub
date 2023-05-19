@@ -1,2 +1,2 @@
 # V14-Pub
-* Eskiden Bemol sunucusnda Kullandığım Botları Taniticam
+* Vector  sunucusnda Kullandığım Botları Taniticam
